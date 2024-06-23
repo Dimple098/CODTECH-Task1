@@ -20,7 +20,7 @@ Project: CHATBOT DEVELOPMENT FOR CUSTOMER SUPPORT
 ![image](https://github.com/Dimple098/CODTECH-Task1/assets/173549661/127cfdec-073e-454f-86db-b5774d884e6b)
 ![image](https://github.com/Dimple098/CODTECH-Task1/assets/173549661/4efab52d-76d2-4130-8f7f-07f1fe05dec8)
 ![image](https://github.com/Dimple098/CODTECH-Task1/assets/173549661/f5f28f08-4bf1-45ed-be18-c65b25103f9d)
-![image](https://github.com/Dimple098/CODTECH-Task1/assets/173549661/6e4f0037-fa34-4bdf-8404-251bf9016389)
+![image](https://github.com/Dimple098/CODTECH-Task1/assets/173549661/9c6d4297-7f5b-484e-82e6-76178b9a2e0c)
 ![image](https://github.com/Dimple098/CODTECH-Task1/assets/173549661/829df0c4-abd5-45a6-ab86-0d18d7204200)
 
 
